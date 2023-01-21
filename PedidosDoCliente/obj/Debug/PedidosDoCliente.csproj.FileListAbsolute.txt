@@ -1,0 +1,15 @@
+C:\Users\czarf\OneDrive\Área de Trabalho\ControleDeTempo\PedidosDoCliente\PedidosDoCliente\bin\Debug\PedidosDoCliente.exe.config
+C:\Users\czarf\OneDrive\Área de Trabalho\ControleDeTempo\PedidosDoCliente\PedidosDoCliente\bin\Debug\PedidosDoCliente.exe
+C:\Users\czarf\OneDrive\Área de Trabalho\ControleDeTempo\PedidosDoCliente\PedidosDoCliente\bin\Debug\PedidosDoCliente.pdb
+C:\Users\czarf\OneDrive\Área de Trabalho\ControleDeTempo\PedidosDoCliente\PedidosDoCliente\obj\Debug\PedidosDoCliente.csproj.AssemblyReference.cache
+C:\Users\czarf\OneDrive\Área de Trabalho\ControleDeTempo\PedidosDoCliente\PedidosDoCliente\obj\Debug\PedidosDoCliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\czarf\OneDrive\Área de Trabalho\ControleDeTempo\PedidosDoCliente\PedidosDoCliente\obj\Debug\PedidosDoCliente.Cliente.CadastroCliente.resources
+C:\Users\czarf\OneDrive\Área de Trabalho\ControleDeTempo\PedidosDoCliente\PedidosDoCliente\obj\Debug\PedidosDoCliente.Properties.Resources.resources
+C:\Users\czarf\OneDrive\Área de Trabalho\ControleDeTempo\PedidosDoCliente\PedidosDoCliente\obj\Debug\PedidosDoCliente.csproj.GenerateResource.cache
+C:\Users\czarf\OneDrive\Área de Trabalho\ControleDeTempo\PedidosDoCliente\PedidosDoCliente\obj\Debug\PedidosDoCliente.csproj.CoreCompileInputs.cache
+C:\Users\czarf\OneDrive\Área de Trabalho\ControleDeTempo\PedidosDoCliente\PedidosDoCliente\obj\Debug\PedidosDoCliente.exe
+C:\Users\czarf\OneDrive\Área de Trabalho\ControleDeTempo\PedidosDoCliente\PedidosDoCliente\obj\Debug\PedidosDoCliente.pdb
+C:\Users\czarf\OneDrive\Área de Trabalho\ControleDeTempo\PedidosDoCliente\PedidosDoCliente\obj\Debug\PedidosDoCliente.Pedido.Pedido.resources
+C:\Users\czarf\OneDrive\Área de Trabalho\ControleDeTempo\PedidosDoCliente\PedidosDoCliente\obj\Debug\PedidosDoCliente.ItemDoPedido.ItensDoPedido.resources
+C:\Users\czarf\OneDrive\Área de Trabalho\ControleDeTempo\PedidosDoCliente\PedidosDoCliente\obj\Debug\PedidosDoCliente.Produto.Produtos.resources
+C:\Users\czarf\OneDrive\Área de Trabalho\ControleDeTempo\PedidosDoCliente\PedidosDoCliente\obj\Debug\PedidosDoCliente.TelaPrincipal.resources
